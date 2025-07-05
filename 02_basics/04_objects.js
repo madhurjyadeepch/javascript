@@ -60,11 +60,11 @@ console.log(Instructor);
 
 // JSON API
 
-{
-    "Name": "Madhurjya",
-    "CourseName": "Javascript Fundamentals",
-    "Price": "Free"
-}
+// {
+//     "Name": "Madhurjya",
+//     "CourseName": "Javascript Fundamentals",
+//     "Price": "Free"
+// }
 
 [
     {},
